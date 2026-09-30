@@ -95,7 +95,7 @@ SE_LAB4_32_Lunar_Lander/
     ├── README.md          <- detailed change log and testing notes
     ├── changes.diff       <- diff vs. the original game.py
     ├── record_demo.py     <- auto-play script used to record the videos
-    └── (chat history doc/pdf)
+    └── Chat_History_Lab4.pdf <- exported AI chat history
 ```
 
 ---
@@ -105,4 +105,4 @@ SE_LAB4_32_Lunar_Lander/
 - [x] A 10-second video of gameplay **before** the changes, showing the bug – [`Lab-4/before.mp4`](Lab-4/before.mp4) (a sideways landing at Vx = 60 > 25 counted as "Perfect landing!")
 - [x] A 10-second video of gameplay **after** the changes, showing the fix and new features – [`Lab-4/after.mp4`](Lab-4/after.mp4)
 - [x] Updated code – [`Lab-4/game.py`](Lab-4/game.py)
-- [ ] The Chat/LLM used page link, with the complete chat history – exported as doc/pdf into `Lab-4/`
+- [x] The Chat/LLM used page link, with the complete chat history – [`Lab-4/Chat_History_Lab4.pdf`](Lab-4/Chat_History_Lab4.pdf) (Notion AI chat)
