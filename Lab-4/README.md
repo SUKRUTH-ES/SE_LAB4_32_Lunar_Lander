@@ -11,7 +11,7 @@
 | `game.py` | Updated game with the bug fix and all three features (every change is tagged `# TASK n`) |
 | `before.mp4` | 10 s gameplay with the **original** code – sideways landing (Vx = 60 > MAX_SPEED_X = 25) is counted as "Perfect landing!" |
 | `after.mp4` | 10 s gameplay with the **updated** code – same sideways landing now crashes ("drifting sideways too fast"), hull turns red on low fuel, fireworks on the x3 pad, "BONUS LIFE!" at 1500 points |
-| `Chat_History_Lab4.pdf` | Exported chat history with the AI assistant |
+| Chat history (doc/pdf) | Exported chat history with the AI assistant (uploaded separately) |
 | `changes.diff` | Git diff of `game.py` vs the original repo |
 | `record_demo.py` | Auto-play script used to record both videos (saves frames, stitches with ffmpeg) |
 
