@@ -1,6 +1,6 @@
 # SE_LAB4_32_Lunar_Lander – Lunar Lander Repair Lab
 
-> **Lab 4 (VibeCoding) submission by SUKRUTH-ES.** Based on the assigned repo [SETAPESU26/32_lunarLander](https://github.com/SETAPESU26/32_lunarLander) (cloned only – no PR raised to SETAPESU26). The bug fix and all three features are done; the updated code and videos are in [`Lab-4/`](Lab-4/) (details in [`Lab-4/README.md`](Lab-4/README.md)). AI tool used: Notion AI.
+> **Lab 4 (VibeCoding) submission by SUKRUTH-ES.** Based on the assigned repo [SETAPESU26/32_lunarLander](https://github.com/SETAPESU26/32_lunarLander) (cloned only – no PR raised to SETAPESU26). The bug fix and all three features are done; the updated code and videos are in [`Lab-4/`](Lab-4/) (details in [`Lab-4/README.md`](Lab-4/README.md)).
 
 This project is a single-file Lunar Lander-lite clone using **Pygame**. It introduces students to vector physics, procedural terrain generation, and multi-condition landing validation using a small, readable object-oriented codebase.
 
